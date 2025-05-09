@@ -4,7 +4,7 @@ This repository contains an end-to-end semantic information retrieval system for
 
 ---
 
-## 🔍 Features
+## Features
 
 - Load and preprocess US patent data from CSV
 - Embed patent descriptions and store them in a Vector Database (VDB)
